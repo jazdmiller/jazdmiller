@@ -11,7 +11,9 @@ My journey into the world of coding began with an Etsy shop I managed in 2020. I
 This unique blend of experiences has shaped me into a versatile and dedicated developer and I am passionate about using my skills to create engaging and effective digital solutions. 
 
 ### Contact Me ☎️
-Feel free to reach out and let's build something great together! 🚀
+Feel free to reach out via LinkedIn or email (linked below profile picture) and let's build something great together! 🚀
+
+
 <!--
 **jazdmiller/jazdmiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
