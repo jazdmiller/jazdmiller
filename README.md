@@ -10,7 +10,7 @@ My journey into the world of coding began with an Etsy shop I managed in 2020. I
 ### Contact Me ☎️
 Feel free to reach out via LinkedIn or email (linked below profile picture) and let's build something great together! 🚀
 
-#### - ⚡  I’m currently working on ...
+#### - 🌱  I’m currently working on ...
 
 Shakn (see pinned repo) - a responsive cocktail recipe site built with React, Strapi, Axios, CSS, and the CocktailDB API. It features dynamic recipe searches, a blog section managed with Strapi's backend, and individual article/recipe pages, creating a rich user experience.
 
