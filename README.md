@@ -7,7 +7,7 @@ My focus revolves around frontend development and design, where I primarily work
 ### Technologies 
 [![React](https://github.com/jazdmiller/jazdmiller/assets/90724224/77e7205a-1362-40b1-978d-b2aefab00fed)
 [1][
-![HTML5](https://github.com/jazdmiller/jazdmiller/assets/90724224/298437c1-d3b2-4982-b311-1787230b4e5c)[2]]
+![HTML5](https://github.com/jazdmiller/jazdmiller/assets/90724224/298437c1-d3b2-4982-b311-1787230b4e5c)[2]
 
 ### Contact Me ☎️
 Feel free to reach out via LinkedIn or email (linked below profile picture) and let's build something great together! 🚀
