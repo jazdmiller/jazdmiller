@@ -18,13 +18,13 @@ My focus revolves around frontend development and design, where I primarily work
 [![Figma](https://github.com/jazdmiller/jazdmiller/assets/90724224/286cfad7-252f-457d-8bdd-d984972253ad)]([11])
 
 
+#### - 🌱  I’m currently working on ...
+
+Shakn (see pinned repo) - a responsive cocktail recipe site built with React, Strapi, Axios, CSS, and the CocktailDB API. It features dynamic recipe searches, a blog section managed with Strapi's backend, and individual article/recipe pages, creating a rich user experience.
 
 ### Contact Me ☎️
 Feel free to reach out via LinkedIn or email (linked below profile picture) and let's build something great together! 🚀
 
-#### - 🌱  I’m currently working on ...
-
-Shakn (see pinned repo) - a responsive cocktail recipe site built with React, Strapi, Axios, CSS, and the CocktailDB API. It features dynamic recipe searches, a blog section managed with Strapi's backend, and individual article/recipe pages, creating a rich user experience.
 
 
 [1]: https://react.dev/
