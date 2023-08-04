@@ -1,6 +1,6 @@
 ## Hi there! 👋🏽 My name is Jazmine Miller
 
-### My Focus 🔭
+### My Focus 
 
 My focus revolves around frontend development and design, where I primarily work with React, Bootstrap, Material UI, and other frontend frameworks/libraries to craft visually stunning and interactive experiences. I'm passionate about creating a sense of seamlessness and ease in my projects, ensuring that every interaction feels natural and engaging.
 
@@ -18,11 +18,11 @@ My focus revolves around frontend development and design, where I primarily work
 [![Figma](https://github.com/jazdmiller/jazdmiller/assets/90724224/286cfad7-252f-457d-8bdd-d984972253ad)]([11])
 
 
-#### - 🌱  I’m currently working on ...
+#### 🌱  I’m currently working on ...
 
 Shakn (see pinned repo) - a dynamic and responsive cocktail recipe finder built with React, Strapi, Axios, CSS, Bootstrap and the CocktailDB API. 
 
-### Contact Me ☎️
+### Contact Me ☎
 Feel free to reach out via LinkedIn or email (linked below profile picture) and let's build something great together! 🚀
 
 
