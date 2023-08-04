@@ -13,6 +13,7 @@ My focus revolves around frontend development and design, where I primarily work
 [![SASS](https://github.com/jazdmiller/jazdmiller/assets/90724224/e429c73e-23fd-4978-bac1-cc4c49c42dc6)]([6])
 [![Nodejs](https://github.com/jazdmiller/jazdmiller/assets/90724224/f7e732bd-514b-49ea-9ec0-49ec61ab7f6b)]([7])
 [![Express](https://github.com/jazdmiller/jazdmiller/assets/90724224/5e3ce61d-a61a-4152-9503-98120a5b58e4)]([9])
+[![strapi](https://github.com/jazdmiller/jazdmiller/assets/90724224/3a8b2f77-1432-4b69-a449-d40bf83cfb6c)]([10])
 
 
 ### Contact Me ☎️
@@ -32,6 +33,8 @@ Shakn (see pinned repo) - a responsive cocktail recipe site built with React, St
 [7]: https://nodejs.org/en
 [8]: https://mui.com/
 [9]: https://expressjs.com/
+[10]: https://strapi.io/
+[11]: https://www.figma.com/
 
 <!--
 [2] HTML5
@@ -42,6 +45,8 @@ Shakn (see pinned repo) - a responsive cocktail recipe site built with React, St
 [7] node.js
 [8] express
 [9] material UI
+[10] strapi
+[11] figma
 
 **jazdmiller/jazdmiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
