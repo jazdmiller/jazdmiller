@@ -5,6 +5,7 @@
 My focus revolves around frontend development and design, where I primarily work with React, Bootstrap, Material UI, and other frontend frameworks/libraries to craft visually stunning and interactive experiences. I'm passionate about creating a sense of seamlessness and ease in my projects, ensuring that every interaction feels natural and engaging.
 
 ### Technologies 
+[<img src="https://github.com/jazdmiller/jazdmiller/assets/90724224/77e7205a-1362-40b1-978d-b2aefab00fed">](https://react.dev/)
 [![React](https://github.com/jazdmiller/jazdmiller/assets/90724224/77e7205a-1362-40b1-978d-b2aefab00fed)](https://react.dev/)
 [![HTML5](https://github.com/jazdmiller/jazdmiller/assets/90724224/298437c1-d3b2-4982-b311-1787230b4e5c)]([2])
 [![CSS3](https://github.com/jazdmiller/jazdmiller/assets/90724224/adb98fe9-1d13-4378-8797-2189cde58d2c)]([3])
