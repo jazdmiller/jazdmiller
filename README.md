@@ -17,7 +17,7 @@ Feel free to reach out via LinkedIn or email (linked below profile picture) and 
 Shakn (see pinned repo) - a responsive cocktail recipe site built with React, Strapi, Axios, CSS, and the CocktailDB API. It features dynamic recipe searches, a blog section managed with Strapi's backend, and individual article/recipe pages, creating a rich user experience.
 
 
-[React]: https://react.dev/
+[1]: https://react.dev/
 [2]: https://www.w3schools.com/html/
 
 <!--
