@@ -20,7 +20,7 @@ My focus revolves around frontend development and design, where I primarily work
 
 #### - 🌱  I’m currently working on ...
 
-Shakn (see pinned repo) - a responsive cocktail recipe site built with React, Strapi, Axios, CSS, and the CocktailDB API. It features dynamic recipe searches, a blog section managed with Strapi's backend, and individual article/recipe pages, creating a rich user experience.
+Shakn (see pinned repo) - a dynamic and responsive cocktail recipe finder built with React, Strapi, Axios, CSS, Bootstrap and the CocktailDB API. 
 
 ### Contact Me ☎️
 Feel free to reach out via LinkedIn or email (linked below profile picture) and let's build something great together! 🚀
@@ -62,4 +62,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+It features dynamic recipe searches, a blog section managed with Strapi's backend, and individual article/recipe pages, creating a rich user experience.
 -->
