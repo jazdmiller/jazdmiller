@@ -14,6 +14,9 @@ My focus revolves around frontend development and design, where I primarily work
 [![Nodejs](https://github.com/jazdmiller/jazdmiller/assets/90724224/f7e732bd-514b-49ea-9ec0-49ec61ab7f6b)]([7])
 [![Express](https://github.com/jazdmiller/jazdmiller/assets/90724224/5e3ce61d-a61a-4152-9503-98120a5b58e4)]([9])
 [![strapi](https://github.com/jazdmiller/jazdmiller/assets/90724224/3a8b2f77-1432-4b69-a449-d40bf83cfb6c)]([10])
+[![MaterialUI](https://github.com/jazdmiller/jazdmiller/assets/90724224/0eef9a31-b60e-49e1-92fa-201c81c53de3)]([8])
+[![Figma](https://github.com/jazdmiller/jazdmiller/assets/90724224/286cfad7-252f-457d-8bdd-d984972253ad)]([11])
+
 
 
 ### Contact Me ☎️
