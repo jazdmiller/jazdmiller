@@ -1,6 +1,6 @@
 ## Hi there! 👋🏽 My name is Jazmine Miller
 
-I am a frontend developer (with full-stack capabilities) and I craft visually stunning and interactive experiences. I'm passionate about user-centric design and ensuring optimal performance across all my projects. My toolbox primarily includes React, Javascript, HTML, CSS, and Bootstrap among many other frontend frameworks & libraries. I'm constantly exploring new techniques and tools to elevate my skills and I remain open to innovative challenges and collaborations. I believe the best solutions emerge from collective creativity, so feel free to get in touch if you're interested in working together!
+I am a frontend developer (with full-stack capabilities) and I craft visually stunning and interactive experiences. I'm passionate about user-centric design and ensuring optimal performance across all my projects. My toolbox primarily includes React, Javascript, HTML, CSS, and Bootstrap among many other frontend frameworks & libraries. I'm constantly exploring new techniques and tools to elevate my skills and I remain open to innovative challenges and collaborations. 
 
 ### Technologies 
 [![React](https://github.com/jazdmiller/jazdmiller/assets/90724224/77e7205a-1362-40b1-978d-b2aefab00fed)](https://react.dev/)
@@ -21,7 +21,7 @@ I am a frontend developer (with full-stack capabilities) and I craft visually st
 SibLinks: A full-stack social media/prompt-generating app for siblings. Built with React, Bootstrap, and Firebase.
 
 ### Contact Me
-Feel free to reach out via LinkedIn or email (linked below profile picture) and let's build something great together! 🚀
+I believe the best solutions emerge from collective creativity, so feel free to get in touch via LinkedIn or email (linked below profile picture), and let's build something great together! 🚀
 
 
 
