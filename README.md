@@ -20,7 +20,7 @@ My focus revolves around frontend development and design, where I primarily work
 
 #### 🌱  I’m currently working on ...
 
-SibLinks: A full-stack social media/prompt-generating app for siblings. Built with React, Bootstrap, Firebase 
+SibLinks: A full-stack social media/prompt-generating app for siblings. Built with React, Bootstrap, and Firebase.
 
 ### Contact Me
 Feel free to reach out via LinkedIn or email (linked below profile picture) and let's build something great together! 🚀
