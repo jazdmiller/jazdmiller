@@ -16,8 +16,8 @@ I am a frontend developer (with full-stack capabilities) and I craft visually st
 [![Figma](https://github.com/jazdmiller/jazdmiller/assets/90724224/286cfad7-252f-457d-8bdd-d984972253ad)]([11])
 
 
-### Currently working on 👩🏽‍💻
-SibLinks: A full-stack social media/prompt-generating app for siblings. Built with React, Bootstrap, and Firebase.
+### Currently Learning 🌱
+Jest and Firebase
 
 ### Contact Me ☎️
 I believe the best solutions emerge from collective creativity, so feel free to get in touch via LinkedIn or email (linked below profile picture), and let's build something great together! 🚀
